@@ -1,0 +1,8 @@
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/src/devWarsztaty-ScoringService/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.deps.json
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/src/devWarsztaty-ScoringService/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.runtimeconfig.json
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/src/devWarsztaty-ScoringService/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.runtimeconfig.dev.json
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/src/devWarsztaty-ScoringService/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/src/devWarsztaty-ScoringService/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.pdb
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/src/devWarsztaty-ScoringService/obj/Debug/netcoreapp1.1/devWarsztaty-ScoringService.AssemblyInfo.cs
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/src/devWarsztaty-ScoringService/obj/Debug/netcoreapp1.1/devWarsztaty-ScoringService.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/src/devWarsztaty-ScoringService/obj/Debug/netcoreapp1.1/devWarsztaty-ScoringService.pdb

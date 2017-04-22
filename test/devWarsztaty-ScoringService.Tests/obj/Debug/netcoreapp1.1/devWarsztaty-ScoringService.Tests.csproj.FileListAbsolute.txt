@@ -1,0 +1,13 @@
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.Tests.deps.json
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.Tests.runtimeconfig.json
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.Tests.runtimeconfig.dev.json
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.Tests.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.Tests.pdb
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.pdb
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/obj/Debug/netcoreapp1.1/devWarsztaty-ScoringService.Tests.AssemblyInfo.cs
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/obj/Debug/netcoreapp1.1/devWarsztaty-ScoringService.Tests.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.Tests/obj/Debug/netcoreapp1.1/devWarsztaty-ScoringService.Tests.pdb

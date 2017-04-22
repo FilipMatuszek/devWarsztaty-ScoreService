@@ -1,0 +1,13 @@
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.IntegrationTests.deps.json
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.IntegrationTests.runtimeconfig.json
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.IntegrationTests.runtimeconfig.dev.json
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.IntegrationTests.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.IntegrationTests.pdb
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/bin/Debug/netcoreapp1.1/devWarsztaty-ScoringService.pdb
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/obj/Debug/netcoreapp1.1/devWarsztaty-ScoringService.IntegrationTests.AssemblyInfo.cs
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/obj/Debug/netcoreapp1.1/devWarsztaty-ScoringService.IntegrationTests.dll
+/home/pawel/repos/workshop/wroclaw-test-repos/devWarsztaty-ScoringService/test/devWarsztaty-ScoringService.IntegrationTests/obj/Debug/netcoreapp1.1/devWarsztaty-ScoringService.IntegrationTests.pdb
