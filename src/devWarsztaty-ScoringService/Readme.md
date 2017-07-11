@@ -11,7 +11,8 @@ Request body :
     "lastName" : "kowalski",
     "country" : "Poland",
     "income" : 100000,
-    "mortgage" : false
+    "mortgage" : false,
+    "age" : 12
 } 
 ```
 
@@ -21,3 +22,11 @@ Response body :
     "eligible" : true
 }
 ```
+
+###
+1. If Country is not Poland then validate fails 
+2. If Mortgage exist then validate fails
+
+###
+1. Add Age to the Request
+2. If Age is less than 21 then validate fails
